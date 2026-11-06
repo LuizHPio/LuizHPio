@@ -16,5 +16,5 @@ Gosto de atuar de ponta a ponta: desde a modelagem orientada a objetos até o de
 * **Interesses Técnicos:** Redes (Winsocks), Baixo Nível/Manipulação de Memória, APIs REST, Arquitetura de Software.
 
 ### 📫 Como me encontrar
-* **LinkedIn:** [linkedin.com/in/luizhpio/]
-* **E-mail:** [luizpessoalhenrique@gmail.com]
+* **LinkedIn:** https://linkedin.com/in/luizhpio/
+* **E-mail:** luizpessoalhenrique@gmail.com
